@@ -45,8 +45,13 @@ A 3-channel wireless oscilloscope built around an ESP32. The device samples thre
    const char* ssid = "YOUR_WIFI_SSID";
    const char* password = "YOUR_WIFI_PASSWORD";
    ```
-3. Flash to an ESP32 dev board, wire up the front-end per the schematic, and open the Serial Monitor to read the assigned IP address.
-4. Visit `http://<esp32-ip>/` in a browser to view the live scope.
+
+
+
+   https://claude.ai/artifact/425A3eNca11TZitofCpdmX
+  
+4. Flash to an ESP32 dev board, wire up the front-end per the schematic, and open the Serial Monitor to read the assigned IP address.
+5. Visit `http://<esp32-ip>/` in a browser to view the live scope.
 
 ## Tech
 
